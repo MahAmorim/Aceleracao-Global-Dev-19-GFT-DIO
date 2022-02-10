@@ -1,0 +1,9 @@
+node_modules
+*.jpg
+*.jpeg
+*.log
+videos
+images
+.DS_Store
+cypress/screenshots/
+mochawesome-report/
